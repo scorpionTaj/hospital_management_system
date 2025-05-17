@@ -127,26 +127,35 @@ This project is part of the **Master SDIA** program, for the course **Distribute
 Below are some screenshots demonstrating the main features and database views of the application:
 
 ### 1. Web Interface
+
 - **Login Page:**
-  ![Login Page](Screenshots/Login%20Page.png)
-  ![User Login Page](Screenshots/User%20Login.png)
+  - ![Login Page](Screenshots/Login%20Page.png)
+  - ![User Login Page](Screenshots/User%20Login.png)
+
 - **Access Denied Page:**
-  ![Access Denied](Screenshots/Access%20Denied.png)
+  - ![Access Denied Page](Screenshots/Access%20Denied.png)
+
 - **Logout Button:**
-  ![Logout Button](Screenshots/Logout%20Success.png)
+  - ![Logout Button](Screenshots/Logout%20Success.png)
+
 - **Patient List with Pagination:**
-  ![Website Pagination Without Improvement](Screenshots/Website%20Pagination.png)
-  ![Website Pagination and Improvement](Screenshots/Website%20Pagination%20and%20improvement.png)
+  - ![Website Pagination](Screenshots/Website%20Pagination.png)
+  - ![Pagination Improvement](Screenshots/Website%20Pagination%20and%20improvement.png)
+
 - **Add Patient Form:**
-  ![Add Patient](Screenshots/Add%20Patient.png)
+  - ![Add Patient Form](Screenshots/Add%20Patient.png)
+
 - **Patient Details:**
-  ![Patient Details](Screenshots/Patient%20Details.png)
+  - ![Patient Details](Screenshots/Patient%20Details.png)
+
 - **Edit Patient:**
-  ![Patient Edit](Screenshots/Patient%20Edit.png)
+  - ![Edit Patient](Screenshots/Patient%20Edit.png)
+
 - **Patient Added Successfully:**
-  ![Patient Added With Success from Website](Screenshots/Patient%20Added%20With%20Success%20from%20Website.png)
+  - ![Added Successfully](Screenshots/Patient%20Added%20With%20Success%20from%20Website.png)
+
 - **Patient Removed Successfully:**
-  ![Patient Remove With Success](Screenshots/Patient%20Remove%20With%20Success.png)
+  - ![Removed Successfully](Screenshots/Patient%20Remove%20With%20Success.png)
 
 ### 2. H2 Database Console
 - **H2 Console Connection Test:**
