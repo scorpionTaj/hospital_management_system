@@ -36,6 +36,12 @@ This project is part of the **Master SDIA** program, for the course **Distribute
 - View patient details.
 - Switch between H2 Database and MySQL (MariaDB) by configuration.
 
+## Authentication & Authorization
+- Custom login page with Spring Security (username/password).
+- Role-based access control: `USER` and `ADMIN` roles.
+- In-memory users by default (e.g., user1/user2/admin with password `SDIA`).
+- Secure endpoints (`/deletePatient/**`, `/admin/**`, `/user/**`).
+
 ---
 
 ## Installation
@@ -121,9 +127,16 @@ This project is part of the **Master SDIA** program, for the course **Distribute
 Below are some screenshots demonstrating the main features and database views of the application:
 
 ### 1. Web Interface
+- **Login Page:**
+  ![Login Page](Screenshots/Login%20Page.png)
+- ![User Login Page](Screenshots/User%20Login.png)
+- **Access Denied Page:**
+  ![Access Denied](Screenshots/Access%20Denied.png)
+- **Logout Button:**
+  ![Logout Button](Screenshots/Logout%20Success.png)
 - **Patient List with Pagination:**
   ![Website Pagination Without Improvement](Screenshots/Website%20Pagination.png)
-  ![Website Pagination and Improvement](Screenshots/Website%20Pagination%20and%20improvment.png)
+  ![Website Pagination and Improvement](Screenshots/Website%20Pagination%20and%20improvement.png)
 - **Add Patient Form:**
   ![Add Patient](Screenshots/Add%20Patient.png)
 - **Patient Details:**
