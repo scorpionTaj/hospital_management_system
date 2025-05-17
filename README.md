@@ -129,7 +129,7 @@ Below are some screenshots demonstrating the main features and database views of
 ### 1. Web Interface
 - **Login Page:**
   ![Login Page](Screenshots/Login%20Page.png)
-- ![User Login Page](Screenshots/User%20Login.png)
+  ![User Login Page](Screenshots/User%20Login.png)
 - **Access Denied Page:**
   ![Access Denied](Screenshots/Access%20Denied.png)
 - **Logout Button:**
